@@ -1,3 +1,3 @@
 # Table of contents
 
-* [psicotrading](README.md)
+* [Psicotrading](README.md)
